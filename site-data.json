@@ -7,20 +7,20 @@
     "phone": "(214) 364-3280",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 7:00 PM, Sat 8:00 AM - 4:00 PM",
-    "ctaLabel": "Schedule Mobile Service",
+    "hours": "Mon-Sat: 7am-8pm, Sun: 8am-5pm",
+    "ctaLabel": "Schedule a Mobile Repair",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Mobile Auto Repair & Maintenance Dallas TX | On-Site Mechanic",
-    "description": "Top-rated mobile auto repair and maintenance in Dallas, TX. Certified mechanics come to you. Brakes, oil changes, diagnostics, and more. Call (214) 364-3280."
+    "title": "Mobile Auto Repair & Maintenance | Dallas Mobile Mechanic | Call (214) 364-3280",
+    "description": "Professional mobile auto repair and maintenance in Dallas, TX. ASE-certified mechanics come to you. Brakes, oil changes, diagnostics, and more. Call (214) 364-3280."
   },
   "home": {
     "hero": {
-      "eyebrow": "Mobile Auto Repair in Dallas, TX",
-      "headline": "Professional Auto Repair That Comes to You",
-      "subheadline": "Skip the shop. Our certified mechanics bring expert diagnostics and repairs to your home or office in Dallas.",
-      "primaryCta": "Schedule Service",
+      "eyebrow": "Dallas's Trusted Mobile Mechanic",
+      "headline": "Expert Auto Repair at Your Doorstep",
+      "subheadline": "Skip the shop. Our certified mechanics bring professional maintenance and repairs to your home or office in Dallas.",
+      "primaryCta": "Book a Mobile Mechanic",
       "secondaryCta": "Call (214) 364-3280"
     },
     "stats": [
@@ -30,11 +30,11 @@
       },
       {
         "value": "500+",
-        "label": "Vehicles Repaired"
+        "label": "Repairs Completed"
       },
       {
         "value": "4.9",
-        "label": "Average Rating"
+        "label": "Customer Rating"
       },
       {
         "value": "100%",
@@ -43,113 +43,114 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Convenience",
+        "eyebrow": "Convenience Redefined",
         "title": "We Come to You – Anywhere in Dallas",
-        "body": "No towing, no waiting rooms. Our mobile service van arrives fully equipped to handle most repairs on the spot. Whether you're at home, work, or stuck on the roadside, we're there.",
+        "body": "No more waiting in repair shop lobbies. Our mobile service van arrives at your location fully equipped to handle most repairs and maintenance. Save time and get back on the road faster.",
         "bullets": [
-          "On-site diagnostics and repair",
-          "No hidden fees or travel charges",
-          "Flexible scheduling – evenings and weekends"
+          "On-site diagnostics and repairs",
+          "Flexible scheduling – even weekends",
+          "Transparent pricing, no hidden fees"
         ],
         "reverse": false,
-        "cardLabel": "Service Area",
-        "cardTitle": "Covering All of Dallas",
-        "cardBody": "From downtown to the suburbs, we serve the entire Dallas metro area with fast, reliable mobile auto repair."
+        "cardLabel": "Mobile Service",
+        "cardTitle": "Fully Equipped Van",
+        "cardBody": "Our mobile workshop carries thousands of parts and tools to complete jobs on the spot."
       },
       {
-        "eyebrow": "Quality",
-        "title": "Certified Mechanics, Premium Parts",
-        "body": "Our technicians are ASE-certified and use only high-quality OEM or equivalent parts. Every repair comes with a warranty for your peace of mind.",
+        "eyebrow": "Quality Assurance",
+        "title": "ASE-Certified Technicians You Can Trust",
+        "body": "Every mechanic on our team is ASE-certified and undergoes continuous training. We use only quality parts and follow manufacturer specifications to ensure your vehicle runs safely and reliably.",
         "bullets": [
-          "ASE-certified mechanics",
+          "Certified and experienced mechanics",
           "Warranty on all repairs",
-          "Transparent pricing – you approve before we work"
+          "Thorough inspections with every service"
         ],
         "reverse": true,
-        "cardLabel": "Guarantee",
-        "cardTitle": "100% Satisfaction",
-        "cardBody": "If you're not happy with the repair, we'll make it right. Your satisfaction is our top priority."
+        "cardLabel": "Expertise",
+        "cardTitle": "ASE Certified",
+        "cardBody": "Our technicians hold the highest industry certifications, ensuring expert care for your vehicle."
       }
     ],
-    "whyTitle": "Why Dallas Drivers Choose Us",
+    "whyTitle": "Why Choose Mobile Auto Repair & Maintenance?",
     "whyChooseUs": [
       {
         "title": "Mobile Convenience",
-        "description": "We save you time by coming to your location. No need to arrange a tow or take time off work."
-      },
-      {
-        "title": "Certified Technicians",
-        "description": "Every mechanic is fully trained and certified, ensuring your vehicle is in expert hands."
+        "description": "We repair your car at your location – home, office, or roadside. No towing needed."
       },
       {
         "title": "Transparent Pricing",
-        "description": "You get a detailed estimate before any work begins. No surprises, no upsells."
+        "description": "Get a clear estimate upfront. No surprise fees, no upselling."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most common repairs completed in under two hours. We respect your time."
       },
       {
         "title": "Warranty Coverage",
-        "description": "All parts and labor are backed by a comprehensive warranty for your peace of mind."
+        "description": "All parts and labor come with a comprehensive warranty for your peace of mind."
       }
     ],
     "testimonials": [
       {
-        "quote": "They came to my office and fixed my brakes in under an hour. Incredibly convenient and professional.",
-        "author": "James R.",
-        "role": "Uptown Dallas resident"
+        "quote": "They came to my office and fixed my brake issue in an hour. Incredibly convenient and professional. Will definitely use again.",
+        "author": "Michael T.",
+        "role": "Downtown Dallas professional"
       },
       {
-        "quote": "I was skeptical about mobile repair, but they were thorough and affordable. Will definitely use again.",
-        "author": "Maria L.",
-        "role": "Oak Lawn homeowner"
+        "quote": "I was stranded with a dead battery. They arrived quickly, replaced it on the spot, and even checked my alternator. Saved my day.",
+        "author": "Jessica L.",
+        "role": "Oak Lawn resident"
       },
       {
-        "quote": "Diagnosed my check engine light quickly and saved me hundreds compared to the dealership quote.",
-        "author": "David K.",
-        "role": "Lakewood commuter"
+        "quote": "Honest pricing and great work. They diagnosed an issue that another shop overcharged for. Highly recommend their mobile service.",
+        "author": "David R.",
+        "role": "Lakewood homeowner"
       }
     ],
     "cta": {
       "headline": "Ready for Hassle-Free Auto Repair?",
-      "subheadline": "Call us or book online to schedule your mobile service today.",
-      "primaryCta": "Book Online",
+      "subheadline": "Book your mobile appointment today and get back on the road with confidence.",
+      "primaryCta": "Schedule Now",
       "secondaryCta": "Call (214) 364-3280"
     }
   },
   "servicesPage": {
-    "intro": "Our comprehensive mobile auto repair services cover everything from routine maintenance to major repairs. All performed at your location in Dallas, TX."
+    "intro": "We offer a full range of mobile auto repair and maintenance services in Dallas. From routine oil changes to complex diagnostics, our certified mechanics bring the shop to you."
   },
   "services": [
     {
       "icon": "01",
       "title": "Brake Repair & Replacement",
-      "shortDescription": "Expert brake service – pads, rotors, calipers – performed on-site.",
-      "longDescription": "Your safety depends on reliable brakes. Our mobile brake service includes inspection, pad replacement, rotor resurfacing or replacement, and caliper repair. We use premium parts and provide a detailed report.",
+      "shortDescription": "Expert brake service at your location – pads, rotors, calipers, and more.",
+      "longDescription": "Your safety depends on reliable brakes. Our mobile mechanics perform thorough brake inspections and repairs using quality parts. Whether you need pad replacement, rotor resurfacing, or caliper service, we handle it all on-site.",
       "benefits": [
-        "No need to drive with worn brakes – we come to you",
-        "Same-day service available",
-        "Competitive pricing with warranty"
+        "Enhanced stopping power and safety",
+        "No more squeaking or grinding noise",
+        "Extended brake system lifespan",
+        "Convenient service at home or work"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "We test brake performance and measure pad thickness and rotor condition."
+          "description": "We test brake performance, measure pad thickness, and check rotors and fluid."
         },
         {
           "title": "Repair",
-          "description": "We replace worn components with high-quality parts and ensure proper calibration."
+          "description": "Replace worn components with premium parts, then bleed and adjust the system."
         },
         {
           "title": "Test Drive",
-          "description": "We verify braking performance and ensure everything is safe before leaving."
+          "description": "A final road test ensures smooth, quiet braking before we leave."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a brake job take?",
-          "answer": "Typically 1-2 hours depending on the vehicle and extent of work."
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-70,000 miles depending on driving habits. We inspect them during every service."
         },
         {
-          "question": "Do you use OEM parts?",
-          "answer": "We use OEM-equivalent or genuine OEM parts based on your preference and budget."
+          "question": "Can you replace brakes in my driveway?",
+          "answer": "Yes! Our mobile van carries all necessary tools and parts for complete brake jobs on-site."
         }
       ],
       "slug": "brake-repair-replacement"
@@ -157,35 +158,36 @@
     {
       "icon": "02",
       "title": "Oil Change & Fluid Services",
-      "shortDescription": "Full oil change and fluid top-offs at your location.",
-      "longDescription": "Regular oil changes are vital for engine health. We perform synthetic and conventional oil changes, plus check and top off all fluids (coolant, transmission, brake, power steering, windshield washer).",
+      "shortDescription": "Keep your engine running smoothly with mobile oil changes and fluid top-offs.",
+      "longDescription": "Regular oil changes are vital for engine health. We come to you with quality synthetic and conventional oils, replace the filter, and check all other fluids. We also offer transmission, coolant, and brake fluid services.",
       "benefits": [
-        "Convenient mobile service – no waiting in line",
-        "Includes multi-point inspection",
-        "Eco-friendly oil disposal"
+        "Extended engine life and performance",
+        "Improved fuel economy",
+        "Prevents costly engine damage",
+        "Quick 30-minute service at your location"
       ],
       "process": [
         {
           "title": "Drain & Replace",
-          "description": "We drain old oil and replace the filter, then add fresh oil of your choice."
+          "description": "Drain old oil, replace filter, and add fresh oil of your choice."
         },
         {
           "title": "Fluid Check",
-          "description": "All fluid levels are inspected and topped off as needed."
+          "description": "Inspect and top off coolant, brake, power steering, and windshield fluids."
         },
         {
-          "title": "Inspection Report",
-          "description": "We provide a report on your vehicle's overall condition, including belts and hoses."
+          "title": "Report",
+          "description": "Provide a detailed summary of fluid levels and recommendations."
         }
       ],
       "faqs": [
         {
           "question": "What type of oil do you use?",
-          "answer": "We offer conventional, synthetic blend, and full synthetic – you choose."
+          "answer": "We offer conventional, synthetic blend, and full synthetic oils from top brands. You can choose based on your vehicle's needs."
         },
         {
-          "question": "Do you dispose of old oil?",
-          "answer": "Yes, we dispose of all fluids responsibly and recycle."
+          "question": "Do you dispose of old oil properly?",
+          "answer": "Yes, we recycle all used oil and filters in accordance with environmental regulations."
         }
       ],
       "slug": "oil-change-fluid-services"
@@ -193,124 +195,124 @@
     {
       "icon": "03",
       "title": "Engine Diagnostics & Check Engine Light",
-      "shortDescription": "On-board diagnostics to identify and fix issues fast.",
-      "longDescription": "Check engine light on? Our mobile diagnostic service uses advanced scanners to read trouble codes and pinpoint issues. We explain the problem clearly and provide a repair estimate – no guesswork.",
+      "shortDescription": "Advanced diagnostics to pinpoint issues and clear that check engine light.",
+      "longDescription": "When your check engine light comes on, our mobile diagnostic service identifies the problem quickly. Using professional-grade scanners, we read codes, perform live data analysis, and provide a clear explanation and repair options.",
       "benefits": [
-        "Quick code reading and analysis",
-        "Clear explanation in plain English",
-        "Repair on the spot if possible"
+        "Accurate diagnosis without guesswork",
+        "Save time and money on unnecessary repairs",
+        "Clear, understandable explanations",
+        "On-site repairs for many issues"
       ],
       "process": [
         {
-          "title": "Code Scan",
-          "description": "We connect a professional scanner to retrieve diagnostic trouble codes."
+          "title": "Code Reading",
+          "description": "Connect scanner to retrieve diagnostic trouble codes (DTCs)."
         },
         {
-          "title": "Interpretation",
-          "description": "We analyze the codes and inspect relevant systems to confirm the issue."
+          "title": "Analysis",
+          "description": "Interpret codes and perform additional tests to confirm the root cause."
         },
         {
-          "title": "Repair Plan",
-          "description": "We present the findings and recommended repairs with a transparent quote."
+          "title": "Recommendation",
+          "description": "Provide a detailed report with repair options and cost estimates."
         }
       ],
       "faqs": [
         {
-          "question": "Can you fix the problem immediately?",
-          "answer": "In many cases, yes. We carry common parts for quick repairs."
+          "question": "Can you fix the problem on the spot?",
+          "answer": "In many cases, yes. We carry common parts like sensors, coils, and hoses. If not, we can schedule a follow-up visit."
         },
         {
-          "question": "What if you can't fix it on-site?",
-          "answer": "We'll advise you on the next steps and can schedule a follow-up visit with the necessary parts."
+          "question": "Will you reset my check engine light?",
+          "answer": "We only clear the light after the underlying issue is resolved. This ensures your vehicle is safe."
         }
       ],
       "slug": "engine-diagnostics-check-engine-light"
     },
     {
       "icon": "04",
-      "title": "Battery Testing & Replacement",
-      "shortDescription": "Battery health check and replacement at your location.",
-      "longDescription": "Dead battery? We'll test your battery's condition and replace it if needed. We carry a range of batteries to fit most vehicles and can install it on the spot.",
+      "title": "Battery Replacement & Electrical Services",
+      "shortDescription": "Dead battery? We test, replace, and handle electrical system repairs on-site.",
+      "longDescription": "A dead battery can leave you stranded. Our mobile service includes battery testing, replacement, and electrical system diagnostics. We also repair alternators, starters, and wiring issues, getting you back on the road quickly.",
       "benefits": [
-        "Free battery testing with any service",
-        "Competitive pricing on quality batteries",
-        "Includes recycling of old battery"
+        "Reliable starting power every time",
+        "Prevents unexpected breakdowns",
+        "Expert electrical troubleshooting",
+        "Fast on-site replacement"
       ],
       "process": [
         {
-          "title": "Test",
-          "description": "We use a digital tester to check voltage, cold cranking amps, and overall health."
+          "title": "Battery Test",
+          "description": "Test battery voltage, cold cranking amps, and overall health."
         },
         {
-          "title": "Replace",
-          "description": "If needed, we install a new battery and secure it properly."
+          "title": "Replacement",
+          "description": "Install a new battery from top brands and dispose of the old one."
         },
         {
-          "title": "Disposal",
-          "description": "We recycle your old battery in an environmentally friendly manner."
+          "title": "System Check",
+          "description": "Verify alternator charging and check for parasitic draws."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a battery replacement take?",
-          "answer": "Usually under 30 minutes."
+          "question": "How long does a car battery last?",
+          "answer": "Typically 3-5 years. We recommend testing annually after the third year."
         },
         {
-          "question": "Do you carry batteries for all cars?",
-          "answer": "We stock popular sizes and can source specific batteries within a day."
+          "question": "Do you carry batteries for all car models?",
+          "answer": "We stock a wide range of batteries for most makes and models. Let us know your vehicle when booking."
         }
       ],
-      "slug": "battery-testing-replacement"
+      "slug": "battery-replacement-electrical-services"
     }
   ],
   "about": {
-    "headline": "Your Trusted Mobile Mechanic in Dallas",
-    "mission": "To provide convenient, high-quality auto repair that fits your schedule and budget – without the hassle of a traditional shop.",
+    "headline": "Your Mobile Mechanic in Dallas – Committed to Quality & Convenience",
+    "mission": "To provide Dallas drivers with honest, high-quality auto repair and maintenance wherever they are, eliminating the hassle of traditional shops.",
     "story": [
-      "Founded by a team of ASE-certified mechanics, Mobile Auto Repair & Maintenance was born from a simple idea: why should car repair be inconvenient? We saw that busy Dallas residents needed a better option – one that saves time and reduces stress. So we packed our tools and brought the shop to you.",
-      "Since then, we've helped thousands of drivers get back on the road quickly and safely. Our commitment to transparency, quality parts, and expert workmanship has made us a trusted name in mobile auto repair across Dallas. We're proud to be your go-to mobile mechanic."
+      "Mobile Auto Repair & Maintenance was founded by a team of ASE-certified mechanics who saw a need for convenient, transparent car care in Dallas. Tired of long wait times and inflated shop prices, they built a mobile service that brings the workshop to the customer. Starting with a single van, they have grown into a trusted name serving hundreds of Dallas residents and businesses.",
+      "Today, we continue to prioritize quality, integrity, and customer satisfaction. Every mechanic is rigorously trained and equipped with the latest tools. We believe in educating our customers and providing fair pricing. Whether you're at home, work, or stuck on the roadside, we're just a call away."
     ],
     "highlight": {
-      "stat": "500+",
-      "label": "Vehicles Repaired"
+      "stat": "15+",
+      "label": "Years of Trusted Service"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We never recommend unnecessary repairs. Honest assessments every time."
+        "description": "We provide honest assessments and never recommend unnecessary repairs."
       },
       {
         "title": "Convenience",
-        "description": "Your time matters. We work around your schedule and come to you."
+        "description": "Our mobile service saves you time and hassle – we adapt to your schedule."
       },
       {
         "title": "Quality",
-        "description": "Only certified technicians and premium parts – backed by a warranty."
+        "description": "We use top-tier parts and follow manufacturer standards for lasting repairs."
       },
       {
         "title": "Transparency",
-        "description": "Clear estimates, no hidden fees, and open communication throughout."
+        "description": "Clear estimates, open communication, and no hidden charges."
       }
     ]
   },
   "contact": {
-    "headline": "Get Your Mobile Auto Repair Quote",
-    "subheadline": "Call or fill out the form to schedule your appointment. We'll come to you.",
-    "primaryCta": "Call (214) 364-3280",
+    "headline": "Get in Touch – We're Ready to Help",
+    "subheadline": "Call or book online to schedule your mobile auto repair in Dallas.",
+    "primaryCta": "Book a Mobile Mechanic",
     "formCta": "Send Message",
     "serviceAreas": [
       "Downtown Dallas",
       "Uptown",
       "Oak Lawn",
       "Lakewood",
+      "Preston Hollow",
       "Highland Park",
       "University Park",
-      "Preston Hollow",
       "North Dallas",
       "Irving",
-      "Garland",
-      "Mesquite",
-      "Richardson"
+      "Garland"
     ]
   },
   "social_proof": {
